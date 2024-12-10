@@ -79,8 +79,8 @@
   },
   "dependencies": {
     "@elastic/datemath": "^5.0.3",
-    "@elastic/eui": "^58.1.1",
-    "@elastic/synthetics": "=1.0.0-beta.31",
+    "@elastic/eui": "^72.0.0",
+    "@elastic/synthetics": "1.14.0",
     "@emotion/cache": "^11.9.3",
     "@emotion/react": "^11.9.3",
     "dotenv": "^10.0.0",
